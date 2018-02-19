@@ -3,11 +3,11 @@ SSR搭建和锐速脚本备份，自己用作备份!<br>
 系统为Centos6 <br>
 SSR搭建脚本：<br>
 yum -y install wget  <br>
-wget -N --no-check-certificate https://raw.githubusercontent.com/ben-august/55R/ssr.sh && chmod +x ssr.sh && bash ssr.sh<br>
+wget -N --no-check-certificate https://raw.githubusercontent.com/ben-august/55R/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh<br>
 <br>
 锐速脚本： <br>
 yum -y install wget   <br>
-wget -N --no-check-certificate https://raw.githubusercontent.com/ben-august/55R/serverspeeder.sh  <br>
+wget -N --no-check-certificate https://raw.githubusercontent.com/ben-august/55R/master/serverspeeder.sh  <br>
 bash serverspeeder.sh  <br>
 <br>
 #详细教程地址：<br>
